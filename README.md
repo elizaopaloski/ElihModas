@@ -1,4 +1,4 @@
-<p> <b> ELIMODAS </i> </b> 
+<p> <b> {color:black;#000000} ELIMODAS </i> </b> 
 <p> <i> Localizado ao lado da loja <b> MicheleModas </b>.
 <p> <i> Fundada em <b> 2021 </b>
 <p> <i> Aqui você encontra tudo de melhor e confortável <b> Vestidos, Saias, Blusas, 
